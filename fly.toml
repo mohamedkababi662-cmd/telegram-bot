@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for telegram-bot-yrd80q on 2026-03-09T04:10:45Z
+# fly.toml app configuration file generated for telegram-bot-o3nzfq on 2026-03-09T04:55:29Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'telegram-bot-yrd80q'
+app = 'telegram-bot-o3nzfq'
 primary_region = 'ams'
 
 [build]
